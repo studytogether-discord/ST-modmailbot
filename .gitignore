@@ -3,7 +3,8 @@
 /node_modules
 /welcome.png
 /update.sh
-
+yarn.lock
+.env
 # Config files
 /config.*
 *.config.ini
